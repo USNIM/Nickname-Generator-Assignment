@@ -1,0 +1,15 @@
+body {
+    background-color: royalblue;
+}
+
+div {
+    width: 600px;
+    margin: 0 auto;
+    color: white;
+}
+
+#nickname {
+    color: white;
+    font-size: 30px;
+    display: block;
+}
